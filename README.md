@@ -1,5 +1,5 @@
 # mqtt-docker
 
-Works on Raspberry Pi.
+Just using another base image for rpi
 
-Grabbed tensorflow whl from http://ci.tensorflow.org/view/Nightly/job/nightly-pi/lastSuccessfulBuild/
+
